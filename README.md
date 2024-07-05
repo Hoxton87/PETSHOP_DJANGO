@@ -81,11 +81,11 @@ Instrucciones para configurar el proyecto localmente.
 2. Navega al directorio del proyecto.
 3. Activar entorno virtual.
  
-    ```bash
+   ```bash
    venv\Scripts\activate
 4.Iniciar Servidor.
 
-    ```bash
+  ```bash
    python manage.py runserver
 
 
