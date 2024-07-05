@@ -1,5 +1,6 @@
 # PETSHOP_DJANGO
 
+```
 PetShop/
 ├── PetShop/
 │   ├── __init__.py
@@ -66,3 +67,25 @@ PetShop/
 ├── requirements.txt
 ├── load_donaciones.py
 └── load_productos.py
+```
+
+## Instalación
+
+Instrucciones para configurar el proyecto localmente.
+
+1. Clona el repositorio:
+   ```bash
+   https://github.com/Hoxton87/PETSHOP_DJANGO.git
+  
+
+2. Navega al directorio del proyecto.
+3. Activar entorno virtual.
+ 
+    ```bash
+   venv\Scripts\activate
+4.Iniciar Servidor.
+
+    ```bash
+   python manage.py runserver
+
+
