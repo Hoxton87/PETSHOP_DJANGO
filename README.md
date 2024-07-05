@@ -82,17 +82,17 @@ Instrucciones para configurar el proyecto localmente.
 3. Activar entorno virtual.
    ```bash
    env\Scripts\activate
-4. Activar entorno virtual.
-   ```bash
-   env\Scripts\activate
-   
-5. migraciones.
+4. migraciones.
    ```bash
    python manage.py migrate
 6. Cargar Datos de Donaciones y Productos
- ```bash
+   ```bash
    python load_donaciones.py
    python load_productos.py
+
+5. Corremos el Server.
+   ```bash
+   python manage.py runserver
 
 
 
